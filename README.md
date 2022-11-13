@@ -272,10 +272,7 @@
             font-weight: 100;
             line-height: 48px;
         }
-        }
-        li {
-            line-height:1px;
-        }
+        }        
     </style>
 </head>
 <body>
@@ -369,12 +366,12 @@
         <p class="light">Sr. Web Developer</p>
         <p class="justified">Shiptrix is a shipping solution and a SAAS application built from scratch, to ship their own parcel with their own selected courier company.</p>
         <p class="justified">
-            Responsibilities
-            • Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences.
-            • Develop project concepts, design and maintain optimal workflow.
-            • Complete detailed programming and development tasks for front
+            Responsibilities<br/>
+            • Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences.<br/>
+            • Develop project concepts, design and maintain optimal workflow.<br/>
+            • Complete detailed programming and development tasks for front<br/>
             end public and internal websites as well as challenging back-end
-            server code.
+            server code.<br/>
             • Carry out quality assurance tests to discover errors and optimize
             usability
         </p>
@@ -383,21 +380,21 @@
         <p class="light">PHP Developer</p>
         <p class="justified">ECP is ecommerce platform to buy car parts as per vehicle registration number or Model details. ECP is providing services in UK, France, Ireland.</p>
         <p class="justified">
-            Responsibilities
-            • Assist in project maintenance
-            • Built site features
-            • Impact analysis before deployment
+            Responsibilities<br/>
+            • Assist in project maintenance<br/>
+            • Built site features<br/>
+            • Impact analysis before deployment<br/>
         </p>
 
         <h3>BodyguardWorkWear – MCC, Goraya, India</h3>
         <p class="light">PHP Developer</p>
         <p class="justified">Bodyguardworkwear is ecommerce and SAAS platform built from scratch, providing its services in UK.</p>
         <p class="justified">
-            Responsibilities 
-            • Built and design application from scratch.
-            • Built key features such as product attribute system
-            • Completed the tasks in provided time frame
-            • Developed and Integrate APIs.
+            Responsibilities<br/>
+            • Built and design application from scratch.<br/>
+            • Built key features such as product attribute system<br/>
+            • Completed the tasks in provided time frame<br/>
+            • Developed and Integrate APIs.<br/>
             • Configurable features as per client profile.
         </p>
 
@@ -405,8 +402,8 @@
         <p class="light">PHP Developer</p>
         <p class="justified">CheekyDevil is a dating site and person can search for partner as per their choice from registered user.</p>
         <p class="justified">
-            Responsibilities 
-            • Boost the website performance
+            Responsibilities<br/>
+            • Boost the website performance<br/>
             • Optimize SQL
         </p>
     </div>

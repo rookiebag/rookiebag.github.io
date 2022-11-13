@@ -337,25 +337,75 @@
                 <li>Aug 2012 – Oct 2013</li>
             </ul>
         </p>
+        <p class="rela-block caps side-header">Education</p>
+        <p class="rela-block list-thing">M.SC (IT) - Punjab Technical Uni. (2012)</p>
+        <p class="rela-block list-thing">B.SC (Sci) - Guru Nanak Dev Uni. (2009)</p>
+        <p class="rela-block caps side-header">Skill Highlights</p>
+        <p class="rela-block list-thing">PHP, MySQL, LAMP, WAMP</p>
+        <p class="rela-block list-thing">Codeigniter, Laravel, Custom-Framework</p>
+        <p class="rela-block list-thing">jQuery, Javascript</p>
+        <p class="rela-block list-thing">GIT, SVN</p>
+        <p class="rela-block list-thing">API Integration and development</p>
+        <p class="rela-block list-thing">OOP, web development, MVC</p>
+        <p class="rela-block list-thing">React (In-progress)</p>
+        <p class="rela-block caps side-header">Languages</p>
+        <p class="rela-block list-thing">English, Hindi, Punjabi</p>
     </div>
     <div class="rela-block content-container">
         <h2 class="rela-block caps title">Sr PHP Developer</h2>
         <div class="rela-block separator"></div>
         <div class="rela-block caps greyed">Profile</div>
         <p class="long-margin">Senior Web Developer, with relentless work ethic, looking for challenging and rewarding opportunities to build and deliver diverse skills to achieve cooperate goals. Comfortable collaborating with front-end developers, project managers and designers. Have capabilities to adopt new technologies, trends and environment.</p>
-        <div class="rela-block caps greyed">Experience</div>
+        <div class="rela-block caps greyed">Project History</div>
 
-        <h3>Job #1</h3>
-        <p class="light">First job description</p>
-        <p class="justified">Plaid gentrify put a bird on it, pickled XOXO farm-to-table irony raw denim messenger bag leggings. Hoodie PBR&B photo booth, vegan chillwave meh paleo freegan ramps. Letterpress shabby chic fixie semiotics. Meditation sriracha banjo pour-over. Gochujang pickled hashtag mixtape cred chambray. Freegan microdosing VHS, 90's bicycle rights aesthetic hella PBR&B. </p>
+        <h3>OakFurniture – Oak Furniture Land</h3>
+        <p class="light">Sr. PHP Developer</p>
+        <p class="justified">Work on a custom framework, fix runtime issues, build admin functionalities</p>
         
-        <h3>Job #2</h3>
-        <p class="light">Second Job Description</p>
-        <p class="justified">Beard before they sold out photo booth distillery health goth. Hammock franzen green juice meggings, ethical sriracha tattooed schlitz mixtape man bun stumptown swag whatever distillery blog. Affogato iPhone normcore, meggings actually direct trade lomo plaid franzen shoreditch. Photo booth pug paleo austin, pour-over banh mi scenester vice food truck slow-carb. Street art kogi normcore, vice everyday carry crucifix thundercats man bun raw denim echo park pork belly helvetica vinyl. </p>
+        <h3>Shiptrix.in – TrixAim, Ludhiana, India</h3>
+        <p class="light">Sr. Web Developer</p>
+        <p class="justified">Shiptrix is a shipping solution and a SAAS application built from scratch, to ship their own parcel with their own selected courier company.</p>
+        <p class="justified">
+            Responsibilities
+            • Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences.
+            • Develop project concepts, design and maintain optimal workflow.
+            • Complete detailed programming and development tasks for front
+            end public and internal websites as well as challenging back-end
+            server code.
+            • Carry out quality assurance tests to discover errors and optimize
+            usability
+        </p>
         
-        <h3>Job #3</h3>
-        <p class="light">Third Job Description</p>
-        <p class="justified">Next level roof party lo-fi fingerstache skateboard, kogi tumblr. Shabby chic put a bird on it chambray, 3 wolf moon swag beard brooklyn post-ironic taxidermy art party microdosing keffiyeh marfa. Put a bird on it 3 wolf moon cliche helvetica knausgaard. Mumblecore fingerstache lomo, artisan freegan keffiyeh paleo kinfolk kale chips street art blog flannel.</p>
+        <h3>EuroCarParts – NetSolutions, Chandigarh, India</h3>
+        <p class="light">PHP Developer</p>
+        <p class="justified">ECP is ecommerce platform to buy car parts as per vehicle registration number or Model details. ECP is providing services in UK, France, Ireland.</p>
+        <p class="justified">
+            Responsibilities
+            • Assist in project maintenance
+            • Built site features
+            • Impact analysis before deployment
+        </p>
+
+        <h3>BodyguardWorkWear – MCC, Goraya, India</h3>
+        <p class="light">PHP Developer</p>
+        <p class="justified">Bodyguardworkwear is ecommerce and SAAS platform built from scratch, providing its services in UK.</p>
+        <p class="justified">
+            Responsibilities 
+            • Built and design application from scratch.
+            • Built key features such as product attribute system
+            • Completed the tasks in provided time frame
+            • Developed and Integrate APIs.
+            • Configurable features as per client profile.
+        </p>
+
+        <h3>CheekyDevil – Techies India, Ludhiana, India</h3>
+        <p class="light">PHP Developer</p>
+        <p class="justified">CheekyDevil is a dating site and person can search for partner as per their choice from registered user.</p>
+        <p class="justified">
+            Responsibilities 
+            • Boost the website performance
+            • Optimize SQL
+        </p>
     </div>
 </div>
 </body>

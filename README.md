@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Vishal Suri</title>
@@ -287,16 +286,14 @@
                 <svg viewbox="0 0 80 80" class="rela-block logo-svg">
                     <path d="M 10 10 L 52 10 L 72 30 L 72 70 L 30 70 L 10 50 Z" stroke-width="2.5" fill="none"/>
                 </svg>
-                <p class="logo-text">kj</p>
+                <p class="logo-text">VS</p>
             </div>
         </div>
-        <p>123 My Place Drive</p>
-        <p>Astoria, New York 11105</p>
-        <p>1-800-CALLPLZ</p>
-        <p>emailsareforsquares@gmail.com</p><br>
-        <p class="rela-block social twitter">Twitter stuff</p>
-        <p class="rela-block social pinterest">Pinterest things</p>
-        <p class="rela-block social linked-in">Linked-in man</p>
+        <p>71 ClayLane</p>
+        <p>Oldbury, Langley Green, B694TH</p>
+        <p>07415777383</p>
+        <p>vishalsuri001@gmail.com</p><br>
+        <p class="rela-block social linked-in"><a href="www.linkedin.com/in/vishal-suri-001">Vishal Suri</a></p>
         <p class="rela-block caps side-header">Expertise</p>
         <p class="rela-block list-thing">HTML</p>
         <p class="rela-block list-thing">CSS (Stylus)</p>
@@ -309,7 +306,7 @@
         <p class="rela-block list-thing">Culinary af</p>
     </div>
     <div class="rela-block content-container">
-        <h2 class="rela-block caps title">Jr Front-End Developer</h2>
+        <h2 class="rela-block caps title">Sr PHP Developer</h2>
         <div class="rela-block separator"></div>
         <div class="rela-block caps greyed">Profile</div>
         <p class="long-margin">Retro DIY quinoa, mixtape williamsburg master cleanse bushwick tumblr chillwave dreamcatcher hella wolf paleo. Knausgaard semiotics truffaut cornhole hoodie, YOLO meggings gochujang tofu. Locavore ugh kale chips iPhone biodiesel typewriter freegan, kinfolk brooklyn kitsch man bun. Austin neutra etsy, lumbersexual paleo cornhole sriracha kinfolk meggings kickstarter. </p>

@@ -273,7 +273,7 @@
             line-height: 48px;
         }
         }
-        .li {
+        li {
             line-height:1px;
         }
     </style>

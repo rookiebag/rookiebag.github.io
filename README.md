@@ -301,8 +301,8 @@
         <p class="rela-block list-thing"><a href="http://oakfurnitureland.co.uk/">
             Oak Furniture Land (Swindon, UK)</a>
             <ul>
-                <li>• Sr. PHP Programmer</li>
-                <li>• Jun 2022 – Present</li>
+                <li>Sr. PHP Programmer</li>
+                <li>Jun 2022 – Present</li>
             </ul>
         </p>
         <p class="rela-block list-thing">CSS (Stylus)</p>

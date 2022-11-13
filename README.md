@@ -299,7 +299,7 @@
         <p class="rela-block">Started career as software executive from a finance organization, coding passion leads me to a programmer with 7+ years’ experience, now focused on becoming a Full Stack developer.</p>
         <p class="rela-block caps side-header">Journey</p>
         <p class="rela-block list-thing"><a href="http://oakfurnitureland.co.uk/">
-            Oak Furniture Land (Swindon, UK)<a/>
+            Oak Furniture Land (Swindon, UK)</a>
             <ul>
                 <li>• Sr. PHP Programmer</li>
                 <li>• Jun 2022 – Present</li>

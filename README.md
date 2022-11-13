@@ -98,7 +98,7 @@
         .page {
         width: 90%;
         max-width: 1200px;
-        margin: 80px auto;
+        margin: -16px auto;
         background-color: #fff;
         box-shadow: 6px 10px 28px 0px rgba(0,0,0,0.4);
         }
@@ -294,6 +294,8 @@
         <p>07415777383</p>
         <p>vishalsuri001@gmail.com</p><br>
         <p class="rela-block social linked-in"><a href="www.linkedin.com/in/vishal-suri-001">Vishal Suri</a></p>
+        <p class="rela-block caps side-header">Career Summary</p>
+        <p class="rela-block">Started career as software executive from a finance organization, coding passion leads me to a programmer with 7+ years’ experience, now focused on becoming a Full Stack developer.</p>
         <p class="rela-block caps side-header">Expertise</p>
         <p class="rela-block list-thing">HTML</p>
         <p class="rela-block list-thing">CSS (Stylus)</p>
@@ -309,7 +311,7 @@
         <h2 class="rela-block caps title">Sr PHP Developer</h2>
         <div class="rela-block separator"></div>
         <div class="rela-block caps greyed">Profile</div>
-        <p class="long-margin">Retro DIY quinoa, mixtape williamsburg master cleanse bushwick tumblr chillwave dreamcatcher hella wolf paleo. Knausgaard semiotics truffaut cornhole hoodie, YOLO meggings gochujang tofu. Locavore ugh kale chips iPhone biodiesel typewriter freegan, kinfolk brooklyn kitsch man bun. Austin neutra etsy, lumbersexual paleo cornhole sriracha kinfolk meggings kickstarter. </p>
+        <p class="long-margin">Senior Web Developer, with relentless work ethic, looking for challenging and rewarding opportunities to build and deliver diverse skills to achieve cooperate goals. Comfortable collaborating with front-end developers, project managers and designers. Have capabilities to adopt new technologies, trends and environment.</p>
         <div class="rela-block caps greyed">Experience</div>
 
         <h3>Job #1</h3>

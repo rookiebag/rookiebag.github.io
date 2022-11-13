@@ -305,14 +305,38 @@
                 <li>Jun 2022 – Present</li>
             </ul>
         </p>
-        <p class="rela-block list-thing">CSS (Stylus)</p>
-        <p class="rela-block list-thing">JavaScript & jQuery</p>
-        <p class="rela-block list-thing">Killer Taste</p>
-        <p class="rela-block caps side-header">Education</p>
-        <p class="rela-block list-thing">Advanced potion making</p>
-        <p class="rela-block list-thing">Degree in popping and locking</p>
-        <p class="rela-block list-thing">Knitting game on point</p>
-        <p class="rela-block list-thing">Culinary af</p>
+        <p class="rela-block list-thing"><a href="https://www.shiptrix.in">TrixAim Services (Ludhiana, India)</a>
+            <ul>
+                <li>Sr. PHP Programmer</li>
+                <li>Apr 2021 – Apr 2022</li>
+            </ul>
+        </p>
+        <p class="rela-block list-thing"><a href="https://www.netsolutions.com">NetSolutions (Chandigarh, India)</a>
+            <ul>
+                <li>PHP Programmer</li>
+                <li>Sep 2018 – Mar 2021</li>
+            </ul>
+        </p>
+        <p class="rela-block list-thing"><a href="https://www.multichannelcreative.co.uk">MultiChannelCreative (India, UK)</a>
+            <ul>
+                <li>PHP Programmer</li>
+                <li>Feb 2015 – May 2018</li>
+            </ul>
+        </p>
+        <p class="rela-block list-thing"><a href="https://techiesindiainc.com">Techies India Inc (Ludhiana, India)
+        </a>
+            <ul>
+                <li>PHP Programmer</li>
+                <li>Jan 2014 – Jan 2015</li>
+            </ul>
+        </p>
+        <p class="rela-block list-thing"><a href="https://jaguarsoftwareindia.com">Jaguar Software (Jalandhar, India)
+        </a>
+            <ul>
+                <li>Software Executive</li>
+                <li>Aug 2012 – Oct 2013</li>
+            </ul>
+        </p>
     </div>
     <div class="rela-block content-container">
         <h2 class="rela-block caps title">Sr PHP Developer</h2>

@@ -279,7 +279,7 @@
 <!-- PAGE STUFF -->
 <div class="rela-block page">
     <div class="rela-block top-bar">
-        <div class="caps name"><div class="abs-center">Kyle J Shanks</div></div>
+        <div class="caps name"><div class="abs-center">Vishal Suri</div></div>
     </div>
     <div class="side-bar">
         <div class="mugshot">

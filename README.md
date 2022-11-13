@@ -7,68 +7,69 @@
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
     <style>
         * {
-        box-sizing: border-box;
-        transition: 0.35s ease;
+            box-sizing: border-box;
+            transition: 0.35s ease;
         }
         .rela-block {
-        display: block;
-        position: relative;
-        margin: auto;
-        top: ;
-        left: ;
-        right: ;
-        bottom: ;
+            display: block;
+            position: relative;
+            margin: auto;
+            top: ;
+            left: ;
+            right: ;
+            bottom: ;
         }
         .rela-inline {
-        display: inline-block;
-        position: relative;
-        margin: auto;
-        top: ;
-        left: ;
-        right: ;
-        bottom: ;
+            display: inline-block;
+            position: relative;
+            margin: auto;
+            top: ;
+            left: ;
+            right: ;
+            bottom: ;
         }
         .floated {
-        display: inline-block;
-        position: relative;
-        margin: false;
-        top: ;
-        left: ;
-        right: ;
-        bottom: ;
-        float: left;
+            display: inline-block;
+            position: relative;
+            margin: false;
+            top: ;
+            left: ;
+            right: ;
+            bottom: ;
+            float: left;
         }
         .abs-center {
-        display: false;
-        position: absolute;
-        margin: false;
-        top: 50%;
-        left: 50%;
-        right: false;
-        bottom: false;
-        transform: translate(-50%, -50%);
-        text-align: center;
-        width: 88%;
+            display: false;
+            position: absolute;
+            margin: false;
+            top: 50%;
+            left: 50%;
+            right: false;
+            bottom: false;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            width: 88%;
         }
         body {
-        font-family: 'Open Sans';
-        font-size: 18px;
-        letter-spacing: 0px;
-        font-weight: 400;
-        line-height: 28px;
-        background: url("http://kingofwallpapers.com/leaves/leaves-016.jpg") right no-repeat;
-        background-size: cover;
+            font-family: 'Open Sans';
+            font-size: 18px;
+            letter-spacing: 0px;
+            font-weight: 400;
+            line-height: 28px;
+            background: url("http://kingofwallpapers.com/leaves/leaves-016.jpg") right no-repeat;
+            background-size: cover;
+            background-color: #000000
         }
         body:before {
-        content: "";
-        display: false;
-        position: fixed;
-        margin: 0;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background-color: rgba(255,255,255,0.92);
+            content: "";
+            display: false;
+            position: fixed;
+            margin: 0;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(255,255,255,0.92);
         }
         .caps {
         text-transform: uppercase;
@@ -296,8 +297,14 @@
         <p class="rela-block social linked-in"><a href="www.linkedin.com/in/vishal-suri-001">Vishal Suri</a></p>
         <p class="rela-block caps side-header">Career Summary</p>
         <p class="rela-block">Started career as software executive from a finance organization, coding passion leads me to a programmer with 7+ years’ experience, now focused on becoming a Full Stack developer.</p>
-        <p class="rela-block caps side-header">Expertise</p>
-        <p class="rela-block list-thing">HTML</p>
+        <p class="rela-block caps side-header">Journey</p>
+        <p class="rela-block list-thing"><a href="http://oakfurnitureland.co.uk/">
+            Oak Furniture Land (Swindon, UK)<a/>
+            <ul>
+                <li>• Sr. PHP Programmer</li>
+                <li>• Jun 2022 – Present</li>
+            </ul>
+        </p>
         <p class="rela-block list-thing">CSS (Stylus)</p>
         <p class="rela-block list-thing">JavaScript & jQuery</p>
         <p class="rela-block list-thing">Killer Taste</p>
